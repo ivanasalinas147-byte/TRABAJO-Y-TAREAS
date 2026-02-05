@@ -1,0 +1,17 @@
+// Erika Ivana Salinas Juarez
+// Ing, Tecnologias de la Informacion y Negocios Digitales
+// 0059111
+Algoritmo arreglo
+	Definir nom1, nom2 Como cadena
+	Definir edad1, edad2, total Como Real
+	Escribir "Ingrese el nombre de la primera persona:"
+	Leer nom1
+	Escribir "Cuantos anios tiene ", nom1, "?"
+	Leer edad1
+	Escribir "Ingrese el nombre de la segunda persona:"
+	Leer nom2
+	Escribir "Cuantos anios tiene ", nom2, "?"
+	Leer edad2
+	tottal<- edad1+edad2
+	Escribir "La edad combinada de ", nom1, "y" nom2, "es de un total de ", total, "anios."
+FinAlgoritmo
