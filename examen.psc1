@@ -1,0 +1,23 @@
+// Erika Ivana Salinas Juarez
+// Ing, Tecnologias de la Informacion y Negocios Digitales
+// 00591111
+Algoritmo examen
+	Escribir '¿Que color se genera mezclando azul y amarillo?'
+	Escribir '1 - rojo.'
+	Escribir '2 - violeta.'
+	Escribir '3 - verde.'
+	Escribir '4 - negro.'
+	Leer color
+	Según color Hacer
+		1:
+			Escribir 'Respuesta incorrecta.'
+		2:
+			Escribir ' Respuesta incorrecta.'
+		3:
+			Escribir 'Correcto.'
+		4:
+			Escribir 'Respuesta incorrecta.'
+		De Otro Modo:
+			Escribir 'Opcion incorrecta.'
+	FinSegún
+FinAlgoritmo
