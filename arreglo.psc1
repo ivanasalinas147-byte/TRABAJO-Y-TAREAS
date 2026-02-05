@@ -1,0 +1,18 @@
+// Erika Ivana Salinas Juarez
+// Ing, Tecnologias de la Informacion y Negocios Digitales
+// 0059111
+Algoritmo arreglo
+	// Primero se declaran un arreglo de 3 elementos
+	Dimensionar datos(3)
+	Escribir 'Ingrese el 1er numero:'
+	Leer datos[1]
+	Escribir 'Ingrese el 12do numero:'
+	Leer datos[2]
+	Escribir 'Ingrese el 13er numero:'
+	Leer datos[3]
+	Escribir 'Los numeros ingresados son: '
+	Escribir datos[1]
+	Escribir datos[2]
+	Escribir datos[3]
+	Escribir datos[4]
+FinAlgoritmo
