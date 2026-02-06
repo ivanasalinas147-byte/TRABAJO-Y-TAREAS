@@ -1,0 +1,10 @@
+//Erika Ivana Salinas Juarez
+//Ing. Teconologias de la Informacion y Negocios Digitrales
+//00591111
+
+Algoritmo cuenta_cadena
+	Escribir "Ingrese un numero: "
+	Leer s
+	Escribir "Su texto contiene" , longitud(s), "caracteres."
+	
+FinAlgoritmo
